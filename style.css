@@ -1,0 +1,154 @@
+body{
+    background-color: #2b2933;
+    font-family:sans-serif;
+}
+.head{
+    text-align: center;
+    color: white;
+}
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    
+    width: 350px;
+    height: 550px;
+    background-color: white;
+}
+.box2{
+    background-color: white;
+    width: 350px;
+    height: 550px;
+}
+.box3{
+    background-color: white;
+    width: 350px;
+    height: 550px;
+}
+.head1{
+    width: 350px;
+    height: 70px;
+    color: white;
+    padding-top: 10%;
+    background-color: purple;
+    box-shadow: inset 0px 0px 60px -12px;
+    text-align: center;
+}
+.price1{
+    width: 350px;
+    height: 130px;
+    background-color: purple;
+}
+.price1 h1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    margin-top: auto;
+    
+}
+.month1{
+    text-align: center;
+    font-size: 18px;
+    color: #adf6f2;
+    margin-top: -50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.detail1{
+    width: 350px;
+   
+    background-color:white ;
+    padding-top: 16px;
+    margin: auto;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    text-align: left;
+    
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: aquamarine;
+    border-color: transparent;
+    transition: rotate 300ms;
+}
+button:hover{
+    cursor: pointer;
+    background-color:burlywood;
+    border-radius: 8px;
+}
+.head2{
+    width: 350px;
+    height: 70px;
+    color: white;
+    padding-top: 10%;
+    background-color: greenyellow;
+    box-shadow: inset 0px 0px 60px -12px;
+    text-align: center;
+}
+.price2{
+    width: 350px;
+    height: 130px;
+    background-color: greenyellow;
+}
+.price2 h1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    margin-top: auto;
+    
+}
+.month2{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin-top: -50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.detail2{
+    width: 350px;
+    background-color:white ;
+    padding-top: 16px;
+    margin: auto;
+    text-align: center;
+}
+.head3{
+    width: 350px;
+    height: 70px;
+    color: white;
+    padding-top: 10%;
+    background-color: orange;
+    box-shadow: inset 0px 0px 60px -12px;
+    text-align: center;
+}
+.price3{
+    width: 350px;
+    height: 130px;
+    background-color:orange;
+}
+.price3 h1{
+    color:white;
+    font-size: 70px;
+    text-align: center;
+    margin-top: auto;
+    
+}
+.month3{
+    text-align: center;
+    font-size: 18px;
+    color: #adf6f2;
+    margin-top: -50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.detail3{
+    width: 350px;
+    background-color:white ;
+    padding-top: 16px;
+    margin: auto;
+    text-align: center;
+}
