@@ -1,2 +1,2 @@
 # Price-Landing
-Price landing page
+Created price landing page using HTML & CSS.
